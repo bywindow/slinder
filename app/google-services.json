@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658647241106",
+    "firebase_url": "https://slinder-bf80c.firebaseio.com",
+    "project_id": "slinder-bf80c",
+    "storage_bucket": "slinder-bf80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658647241106:android:b5d5e7d4bebb088a0f314b",
+        "android_client_info": {
+          "package_name": "com.example.slinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658647241106-paq82e7fmbern15lil9evdot8aag76vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slinder",
+            "certificate_hash": "9ded7d08de42759b8461da45b6b37e369f91b010"
+          }
+        },
+        {
+          "client_id": "658647241106-gdau616tqdu0hhqjp65pbk625jmquaje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAkgagwwBRpfxl8_qmIIltk9Bx77XcgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658647241106-gdau616tqdu0hhqjp65pbk625jmquaje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+include ':app', ':Aircalendar'
+rootProject.name='slinder'
